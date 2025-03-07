@@ -1,0 +1,8 @@
+{
+  "name": "Desktop Environment",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "forwardPorts": [3389, 5902]
+}
