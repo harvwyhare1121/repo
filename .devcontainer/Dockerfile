@@ -1,5 +1,5 @@
-#FROM ubuntu:jammy-20230425
-FROM ubuntu:lunar-20230615
+FROM ubuntu:jammy-20230425
+#FROM ubuntu:lunar-20230615
 
 # Install Cinnamon Desktop and required packages
 RUN apt update && \
