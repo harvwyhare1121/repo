@@ -1,4 +1,4 @@
-FROM ubuntu:jammy-20230425
+FROM ubuntu:latest
 #FROM ubuntu:lunar-20230615
 
 # Install Cinnamon Desktop and required packages
